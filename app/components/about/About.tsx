@@ -52,7 +52,7 @@ const About = () => {
             to explore, learn, and share the magic of cooking.
           </p>
           <p className="text-black text-sm  sm:text-lg">
-            Whether it's celebrating the warmth of a family dinner or the
+            Whether it&apos;s celebrating the warmth of a family dinner or the
             excitement of discovering a new dish, Tasty Treasure is your trusted
             companion in the kitchen, bringing the world of flavors right to
             your table.

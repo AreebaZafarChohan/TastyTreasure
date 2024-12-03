@@ -27,8 +27,8 @@ const Contact = () => {
           Contact Us
         </h1>
         <p className="text-black  sm:text-lg mt-4">
-          Have questions or feedback? We'd love to hear from you! Fill out the form below, 
-          and we'll get in touch.
+          Have questions or feedback? We&apos;d love to hear from you! Fill out the form below, 
+          and we&apos;ll get in touch.
         </p>
       </div>
       <form
