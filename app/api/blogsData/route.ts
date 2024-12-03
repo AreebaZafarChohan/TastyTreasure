@@ -71,7 +71,7 @@ const blogs: BlogDataProps[] = [
     ],
     conclusion: {
       heading: "Aloo Paratha - A Flavorful Delight for Any Meal",
-      para: "Aloo Paratha is a simple yet flavorful dish that's perfect for breakfast, lunch, or dinner. The combination of soft, flaky flatbread with a spicy potato filling makes it a comforting meal that's loved by everyone. Whether enjoyed with yogurt, chutney, or pickle, Aloo Paratha is sure to satisfy your hunger and taste buds. Try this recipe and enjoy the warm, delicious flavors of this iconic dish!",
+      para: "Aloo Paratha is a simple yet flavorful dish that&apos;s perfect for breakfast, lunch, or dinner. The combination of soft, flaky flatbread with a spicy potato filling makes it a comforting meal that&apos;s loved by everyone. Whether enjoyed with yogurt, chutney, or pickle, Aloo Paratha is sure to satisfy your hunger and taste buds. Try this recipe and enjoy the warm, delicious flavors of this iconic dish!",
     },
   },
   {
@@ -94,7 +94,7 @@ const blogs: BlogDataProps[] = [
         "Tender and Flavorful: The slow-cooked beef or mutton becomes so tender that it practically melts in your mouth, making every bite a delight.",
         "Aromatic Spices: The blend of spices used in Nihari gives it a rich, savory flavor that is both comforting and indulgent.",
         "Nutrient-Rich: Nihari is a great source of protein and iron, making it not only tasty but also nourishing.",
-        "Perfect for Special Occasions: Whether it's a celebration, gathering, or a cozy family meal, Nihari is the perfect dish to share with loved ones.",
+        "Perfect for Special Occasions: Whether it&apos;s a celebration, gathering, or a cozy family meal, Nihari is the perfect dish to share with loved ones.",
       ],
     },
     ingredients: [
@@ -147,7 +147,7 @@ const blogs: BlogDataProps[] = [
     ],
     conclusion: {
       heading: "Nihari - A Hearty Stew That Warms the Soul",
-      para: "Nihari is more than just a meal - it's a tradition. With its rich, savory broth, tender meat, and aromatic spices, Nihari is the perfect dish for special occasions, family gatherings, or any time you crave a hearty, comforting meal. Try this recipe, and let Nihari fill your home with warmth, flavor, and love!",
+      para: "Nihari is more than just a meal - it&apos;s a tradition. With its rich, savory broth, tender meat, and aromatic spices, Nihari is the perfect dish for special occasions, family gatherings, or any time you crave a hearty, comforting meal. Try this recipe, and let Nihari fill your home with warmth, flavor, and love!",
     },
   },
   {
@@ -162,7 +162,7 @@ const blogs: BlogDataProps[] = [
     },
     sub: {
       heading: "A Comforting Dish for Special Occasions",
-      para: "Mutton Paye is a delicacy that is often associated with lavish feasts, weddings, or family gatherings. With its rich aroma, flavorful spices, and melt-in-your-mouth texture, it's a dish that brings people together to enjoy a hearty meal.",
+      para: "Mutton Paye is a delicacy that is often associated with lavish feasts, weddings, or family gatherings. With its rich aroma, flavorful spices, and melt-in-your-mouth texture, it&apos;s a dish that brings people together to enjoy a hearty meal.",
     },
     description: {
       heading: "Why Mutton Paye is Special",
@@ -223,7 +223,7 @@ const blogs: BlogDataProps[] = [
     ],
     conclusion: {
       heading: "Mutton Paye - A Hearty Feast for Your Taste Buds",
-      para: "Mutton Paye is a rich, savory dish that embodies the essence of South Asian comfort food. With its tender, melt-in-your-mouth trotters, flavorful broth, and aromatic spices, it's the perfect meal for special occasions, family gatherings, or a cozy dinner on a chilly evening. Try this recipe, and let the deliciousness of Mutton Paye fill your home with warmth and joy!",
+      para: "Mutton Paye is a rich, savory dish that embodies the essence of South Asian comfort food. With its tender, melt-in-your-mouth trotters, flavorful broth, and aromatic spices, it&apos;s the perfect meal for special occasions, family gatherings, or a cozy dinner on a chilly evening. Try this recipe, and let the deliciousness of Mutton Paye fill your home with warmth and joy!",
     },
   },
   {
@@ -361,7 +361,7 @@ const blogs: BlogDataProps[] = [
     ],
     "conclusion": {
       "heading": "Halwa Puri - A Breakfast to Remember",
-      "para": "Halwa Puri is more than just a breakfast; it's a nostalgic and indulgent meal that brings comfort and joy. Whether you're making it for a festive occasion or a weekend treat, Halwa Puri is sure to be a hit with family and friends. Try this recipe today for a taste of tradition and flavor!"
+      "para": "Halwa Puri is more than just a breakfast; it&apos;s a nostalgic and indulgent meal that brings comfort and joy. Whether you&apos;re making it for a festive occasion or a weekend treat, Halwa Puri is sure to be a hit with family and friends. Try this recipe today for a taste of tradition and flavor!"
     }
   }, 
 
@@ -374,11 +374,11 @@ const blogs: BlogDataProps[] = [
     date: `September 26, 2024`,
     main: {
       heading: `Daal Chawal - A Dish That Feels Like Home`,
-      para: `Daal Chawal (lentils and rice) is a timeless staple of South Asian cuisine, cherished for its simplicity and comforting flavors. Whether it's a busy weekday or a lazy weekend, this wholesome dish is a go-to meal for people of all ages. The combination of creamy lentils and fluffy steamed rice, often paired with tangy pickles or crispy papad, creates a heartwarming experience.`,
+      para: `Daal Chawal (lentils and rice) is a timeless staple of South Asian cuisine, cherished for its simplicity and comforting flavors. Whether it&apos;s a busy weekday or a lazy weekend, this wholesome dish is a go-to meal for people of all ages. The combination of creamy lentils and fluffy steamed rice, often paired with tangy pickles or crispy papad, creates a heartwarming experience.`,
     },
     sub: {
       heading: `The Ultimate Comfort Food`,
-      para: `Daal Chawal is more than just food; it's an emotion. Easy to prepare and incredibly satisfying, this dish is a reminder of home, tradition, and the joy of simple, nourishing meals.`,
+      para: `Daal Chawal is more than just food; it&apos;s an emotion. Easy to prepare and incredibly satisfying, this dish is a reminder of home, tradition, and the joy of simple, nourishing meals.`,
     },
     description: {
       heading: `Why Daal Chawal Is Loved by All`,
@@ -386,13 +386,13 @@ const blogs: BlogDataProps[] = [
         `A Budget-Friendly Delight
 Made with easily available ingredients, daal chawal is one of the most affordable yet fulfilling meals.`,
         ` Perfect for All Seasons
-Whether it's a chilly winter evening or a summer lunch, daal chawal is perfect for every season.
+Whether it&apos;s a chilly winter evening or a summer lunch, daal chawal is perfect for every season.
 `,
         `Nutritious and Wholesome
 Packed with proteins, fiber, and essential nutrients, this dish is as healthy as it is delicious.
 `,
         ` Customizable and Versatile
-From spicy tarka (tempering) to mild and creamy variations, daal chawal can be customized to suit everyone's taste.
+From spicy tarka (tempering) to mild and creamy variations, daal chawal can be customized to suit everyone&apos;s taste.
 `,
       ],
     },
@@ -453,7 +453,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     ],
     conclusion: {
       heading: `The Simplicity of Daal Chawal`,
-      para: `Daal Chawal is more than just a dish; it's a celebration of simplicity and tradition. Its rich flavors and heartwarming aroma bring families together, making it a timeless favorite. Whether you're craving a quick meal or a nostalgic bite, daal chawal never disappoints.`,
+      para: `Daal Chawal is more than just a dish; it&apos;s a celebration of simplicity and tradition. Its rich flavors and heartwarming aroma bring families together, making it a timeless favorite. Whether you&apos;re craving a quick meal or a nostalgic bite, daal chawal never disappoints.`,
     },
   },
 
@@ -525,7 +525,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     ],
     conclusion: {
       heading: 'Aloo Gobhi - Simple Yet Flavorful',
-      para: 'Aloo Gobhi is a timeless dish that proves the best meals are often the simplest. With its earthy vegetables and aromatic spices, it's a perfect example of how traditional recipes turn basic ingredients into something extraordinary. Make this comforting dish a part of your weekly menu, and enjoy its delightful flavors with your loved ones!',
+      para: 'Aloo Gobhi is a timeless dish that proves the best meals are often the simplest. With its earthy vegetables and aromatic spices, it&apos;s a perfect example of how traditional recipes turn basic ingredients into something extraordinary. Make this comforting dish a part of your weekly menu, and enjoy its delightful flavors with your loved ones!',
     },
   }, 
 
@@ -591,7 +591,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     ],
     conclusion: {
       heading: "Aloo Palak - A Healthy Comfort Food",
-      para: "Aloo Palak is not just a dish; it's a celebration of simple ingredients transformed into a flavorful masterpiece. It's the perfect way to add greens to your meals without compromising on taste. Enjoy this wholesome recipe that's sure to leave you and your loved ones asking for seconds!"
+      para: "Aloo Palak is not just a dish; it&apos;s a celebration of simple ingredients transformed into a flavorful masterpiece. It&apos;s the perfect way to add greens to your meals without compromising on taste. Enjoy this wholesome recipe that&apos;s sure to leave you and your loved ones asking for seconds!"
     }
   },
 
@@ -615,7 +615,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
         "A Nutrient-Packed Meal: With its mix of grains, lentils, and meat, Haleem is a balanced, protein-rich dish that provides long-lasting energy.",
         "A Symbol of Togetherness: Traditionally cooked in large quantities, Haleem is meant to be shared with family and friends, fostering a sense of community.",
         "A Labor of Love: The slow-cooking process and careful blending of spices make Haleem a labor-intensive yet rewarding dish.",
-        "Perfect for Any Occasion: Whether it's a festive gathering or a quiet family dinner, Haleem is a dish that always steals the spotlight."
+        "Perfect for Any Occasion: Whether it&apos;s a festive gathering or a quiet family dinner, Haleem is a dish that always steals the spotlight."
       ]
     },
     ingredients: [
@@ -666,7 +666,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     ],
     conclusion: {
       heading: "Haleem - A Dish of Timeless Elegance",
-      para: "Haleem is more than a meal; it's a tradition that brings people together. Whether you're savoring it on a cold winter evening or enjoying it during a festive celebration, this hearty dish always leaves a lasting impression. With its complex flavors and comforting warmth, Haleem truly deserves its place in the spotlight of South Asian cuisine."
+      para: "Haleem is more than a meal; it&apos;s a tradition that brings people together. Whether you&apos;re savoring it on a cold winter evening or enjoying it during a festive celebration, this hearty dish always leaves a lasting impression. With its complex flavors and comforting warmth, Haleem truly deserves its place in the spotlight of South Asian cuisine."
     }
   },
 
@@ -682,13 +682,13 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     },
     sub: {
       heading: "A Hearty and Satisfying Meal",
-      para: "Aloo Keema is not just a meal; it's a blend of savory flavors that bring out the warmth and richness of Pakistani cuisine. It's a complete, filling dish that's easy to prepare yet loved by all."
+      para: "Aloo Keema is not just a meal; it&apos;s a blend of savory flavors that bring out the warmth and richness of Pakistani cuisine. It&apos;s a complete, filling dish that&apos;s easy to prepare yet loved by all."
     },
     description: {
       heading: "Why Aloo Keema is a Favorite",
       para: [
         "Rich in Protein: The combination of ground meat and potatoes makes this dish a great source of protein and essential nutrients.",
-        "Quick and Easy: It's a simple recipe that doesn't require much time, making it an ideal choice for busy days.",
+        "Quick and Easy: It&apos;s a simple recipe that doesn&apos;t require much time, making it an ideal choice for busy days.",
         "Full of Flavor: The spices bring out an incredible depth of flavor, while the potatoes absorb the savory meat juices, making each bite satisfying.",
         "Perfect for Any Meal: Aloo Keema can be served as a lunch, dinner, or even as a filling snack with paratha or naan."
       ]
@@ -756,7 +756,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     description: {
       heading: `A Flavorful History`,
       para: [
-        `Origins in Persia and Mughal India Biryani's origins can be traced back to Persia, where it was brought to India by the Mughals. Over time, it became an integral part of Indian cuisine.`,
+        `Origins in Persia and Mughal India Biryani&apos;s origins can be traced back to Persia, where it was brought to India by the Mughals. Over time, it became an integral part of Indian cuisine.`,
         ` Regional Variations Each region in South Asia has its own version of biryani—Hyderabadi, Lucknowi, Kolkata, Sindhi, and more—each adding a unique twist to the classic recipe.`,
         `A Royal Dish for the Masses Once reserved for royalty, biryani has now become a universal favorite, loved by people across all walks of life.`,
         `A Symbol of Celebration Biryani is synonymous with festivities and is often the star dish at weddings, festivals, and gatherings.`,
@@ -836,9 +836,9 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
       para: `Qorma is not just a curry; it is a masterpiece of flavors. Its preparation involves slow cooking to ensure every spice and ingredient perfectly blends, creating a taste that is unforgettable.`,
     },
     description: {
-      heading: `A Journey Through Qorma's Legacy`,
+      heading: `A Journey Through Qorma&apos;s Legacy`,
       para: [
-        `A Mughal Invention Qorma finds its roots in Mughal kitchens, where chefs created this dish as a tribute to the emperors' love for rich and flavorful food.`,
+        `A Mughal Invention Qorma finds its roots in Mughal kitchens, where chefs created this dish as a tribute to the emperors&apos; love for rich and flavorful food.`,
         `A Symbol of Hospitality In South Asia, qorma is synonymous with hospitality and is often served to honor guests at weddings and festivals.`,
         `Diverse Variations From chicken qorma to mutton qorma, each version has its distinct flavor profile, influenced by regional preferences.`,
         `Perfectly Paired with Naan or Rice Qorma is often enjoyed with naan, paratha, or plain steamed rice, making it a versatile dish for any occasion.`,
@@ -906,7 +906,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     date: `December 26, 2023`,
     main: {
       heading: `The Iconic Chicken Karahi`,
-      para: `Chicken Karahi is a beloved dish in South Asian cuisine, especially in Pakistan. Known for its bold flavors and minimal ingredients, it's a go-to dish for family dinners, gatherings, and even roadside eateries. With its quick preparation and irresistible aroma, chicken karahi has earned a special place in the hearts of food lovers.`,
+      para: `Chicken Karahi is a beloved dish in South Asian cuisine, especially in Pakistan. Known for its bold flavors and minimal ingredients, it&apos;s a go-to dish for family dinners, gatherings, and even roadside eateries. With its quick preparation and irresistible aroma, chicken karahi has earned a special place in the hearts of food lovers.`,
     },
     sub: {
       heading: `Simple Yet Flavorful`,
@@ -977,7 +977,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     ],
     conclusion: {
       heading: `A Timeless Favorite`,
-      para: `Chicken Karahi is not just a dish; it's an experience that defines the essence of Pakistani hospitality and love for food. Its simplicity and unbeatable flavor make it a dish you'll want to cook over and over again.`,
+      para: `Chicken Karahi is not just a dish; it&apos;s an experience that defines the essence of Pakistani hospitality and love for food. Its simplicity and unbeatable flavor make it a dish you&apos;ll want to cook over and over again.`,
     },
   },
 
@@ -1064,7 +1064,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     ],
     conclusion: {
       heading: `A Timeless Recipe`,
-      para: `Dum Qeema is a testament to the rich culinary heritage of South Asia. Its bold flavors and aromatic spices make it a dish worth savoring. Whether it's a family dinner or a special occasion, Dum Qeema is sure to be the star of the table.`,
+      para: `Dum Qeema is a testament to the rich culinary heritage of South Asia. Its bold flavors and aromatic spices make it a dish worth savoring. Whether it&apos;s a family dinner or a special occasion, Dum Qeema is sure to be the star of the table.`,
     },
   },
 
@@ -1135,7 +1135,7 @@ Originally served by roadside vendors, Chicken Chargha has now found its way to 
         heading: `Marinate the Chicken/Mutton`,
         para: `In a large bowl, mix yogurt, lemon juice, garlic paste, ginger paste, green chilies, and all the spices.
 
-Rub this mixture all over the chicken, making sure it's well-coated. Cover the chicken and let it marinate for at least 3-4 hours (overnight for best results).
+Rub this mixture all over the chicken, making sure it&apos;s well-coated. Cover the chicken and let it marinate for at least 3-4 hours (overnight for best results).
 `,
       },
       {
@@ -1144,7 +1144,7 @@ Rub this mixture all over the chicken, making sure it's well-coated. Cover the c
       },
       {
         heading: `Fry or Roast the Chicken`,
-        para: `For frying: Deep fry the marinated chicken until it's golden brown and cooked through (about 15-20 minutes on medium heat).
+        para: `For frying: Deep fry the marinated chicken until it&apos;s golden brown and cooked through (about 15-20 minutes on medium heat).
 
 For roasting: Place the marinated chicken in the oven and roast for 45-60 minutes, or until the chicken is cooked through and the skin is crispy.
 `,
@@ -1160,7 +1160,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     ],
     conclusion: {
       heading: `A Crowd-Pleasing Dish`,
-      para: `Chicken Chargha is more than just a meal; it's a celebration of flavors. Whether you're hosting a gathering or enjoying a family meal, this dish is guaranteed to be a hit. Its crispy texture, juicy interior, and spicy marinade make it a standout choice for any occasion.`,
+      para: `Chicken Chargha is more than just a meal; it&apos;s a celebration of flavors. Whether you&apos;re hosting a gathering or enjoying a family meal, this dish is guaranteed to be a hit. Its crispy texture, juicy interior, and spicy marinade make it a standout choice for any occasion.`,
     },
   },
 
@@ -1221,7 +1221,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
       }
     ],
     "conclusion": {
-      "heading": "The Club Sandwich - A Snack You Can't Resist",
+      "heading": "The Club Sandwich - A Snack You Can&apos;t Resist",
       "para": "The Club Sandwich is a snack that's loved by many for its delicious layers and variety of flavors. It's easy to prepare, customizable, and perfect for any occasion. Whether you're craving a light snack or a satisfying meal, the Club Sandwich is sure to hit the spot. Try this recipe today for a satisfying and tasty treat!"
     }
   },
@@ -1438,7 +1438,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     "description": {
       "heading": "What Makes Momos Special?",
       "para": [
-        "Steamed Perfection: The steamed momo dough gives them a soft, pillowy texture that's a joy to bite into.",
+        "Steamed Perfection: The steamed momo dough gives them a soft, pillowy texture that&apos;s a joy to bite into.",
         "Savory Fillings: Whether vegetarian or non-vegetarian, momos can be filled with your favorite ingredients, from spicy potatoes to juicy chicken.",
         "Quick and Easy: Momos are relatively easy to make and can be steamed in just a few minutes, making them an ideal snack for any occasion.",
         "Versatile: You can experiment with different fillings, dipping sauces, and seasonings to make them uniquely yours."
@@ -1757,7 +1757,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     },
     "sub": {
       "heading": "An Iconic Dish from the Heart of Bihari Cuisine",
-      "para": "Bihari Boti is not just a BBQ item; it's a symbol of authentic South Asian flavors. Its unique marination and grilling techniques set it apart from other BBQ dishes."
+      "para": "Bihari Boti is not just a BBQ item; it&apos;s a symbol of authentic South Asian flavors. Its unique marination and grilling techniques set it apart from other BBQ dishes."
     },
     "description": {
       "heading": "What Makes Beef Bihari Boti Special?",
@@ -1818,7 +1818,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     "date": "December 2, 2024",
     "main": {
       "heading": "Gajar ka Halwa - The Quintessential Winter Treat",
-      "para": "Gajar ka Halwa, also known as carrot halwa, is a beloved traditional dessert in South Asia. Made with grated carrots, milk, sugar, and a touch of aromatic cardamom, it's a warm and comforting dish that's perfect for cold winter evenings. Often garnished with nuts and dried fruits, Gajar ka Halwa is a festive favorite during weddings and celebrations."
+      "para": "Gajar ka Halwa, also known as carrot halwa, is a beloved traditional dessert in South Asia. Made with grated carrots, milk, sugar, and a touch of aromatic cardamom, it&apos;s a warm and comforting dish that&apos;s perfect for cold winter evenings. Often garnished with nuts and dried fruits, Gajar ka Halwa is a festive favorite during weddings and celebrations."
     },
     "sub": {
       "heading": "A Dessert Rooted in Tradition",
@@ -1867,7 +1867,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     ],
     "conclusion": {
       "heading": "Gajar ka Halwa - A Timeless Sweet Treat",
-      "para": "Gajar ka Halwa is more than just a dessert; it's an emotion that brings families together during special moments. Its rich aroma and creamy texture make it a perfect way to end any meal. Try this recipe at home and relish the taste of this classic winter delight."
+      "para": "Gajar ka Halwa is more than just a dessert; it&apos;s an emotion that brings families together during special moments. Its rich aroma and creamy texture make it a perfect way to end any meal. Try this recipe at home and relish the taste of this classic winter delight."
     }
   },
   {
@@ -1882,7 +1882,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     },
     "sub": {
       "heading": "A Royal Dessert with a Timeless Appeal",
-      "para": "Rasmalai, derived from the Bengali words ‘Ras' (juice) and ‘Malai' (cream), is a dessert that exudes luxury. Its delicate flavors and creamy texture make it an irresistible treat for anyone with a sweet tooth."
+      "para": "Rasmalai, derived from the Bengali words ‘Ras&apos; (juice) and ‘Malai&apos; (cream), is a dessert that exudes luxury. Its delicate flavors and creamy texture make it an irresistible treat for anyone with a sweet tooth."
     },
     "description": {
       "heading": "Why Rasmalai is Special?",
@@ -2034,7 +2034,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     ],
     "conclusion": {
       "heading": "Rabri Kheer - A Fusion Dessert to Remember",
-      "para": "Rabri Kheer is a delightful fusion of tradition and innovation. Its creamy richness and flavorful ingredients make it a standout choice for any occasion. Try this recipe and indulge in a dessert that's truly special!"
+      "para": "Rabri Kheer is a delightful fusion of tradition and innovation. Its creamy richness and flavorful ingredients make it a standout choice for any occasion. Try this recipe and indulge in a dessert that&apos;s truly special!"
     }
   },
   {
@@ -2052,9 +2052,9 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
       "para": "Whether served plain, topped with ice cream, or drizzled with chocolate sauce, brownies are a versatile dessert that never fails to impress."
     },
     "description": {
-      "heading": "Why Brownies Are Everyone's Favorite",
+      "heading": "Why Brownies Are Everyone&apos;s Favorite",
       "para": [
-        "Rich and Chocolatey: Packed with cocoa and chocolate chips, brownies are a chocolate lover's dream.",
+        "Rich and Chocolatey: Packed with cocoa and chocolate chips, brownies are a chocolate lover&apos;s dream.",
         "Customizable: Add nuts, caramel, or marshmallows to create your favorite version.",
         "Easy to Make: With simple ingredients and minimal effort, you can whip up a batch in no time."
       ]
@@ -2221,8 +2221,8 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     "title": "Double Cheese Pizza - A Cheesy Delight",
     "date": "December 2, 2024",
     "main": {
-      "heading": "Double Cheese Pizza - Every Cheese Lover's Dream",
-      "para": "Double cheese pizza is a classic fast food that never fails to satisfy. With a crispy crust, flavorful tomato sauce, and an abundance of melted cheese, it's the ultimate indulgence for pizza enthusiasts."
+      "heading": "Double Cheese Pizza - Every Cheese Lover&apos;s Dream",
+      "para": "Double cheese pizza is a classic fast food that never fails to satisfy. With a crispy crust, flavorful tomato sauce, and an abundance of melted cheese, it&apos;s the ultimate indulgence for pizza enthusiasts."
     },
     "sub": {
       "heading": "Twice the Cheese, Twice the Fun",
@@ -2280,7 +2280,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     "date": "December 2, 2024",
     "main": {
       "heading": "Burger - A Classic Comfort Food",
-      "para": "The burger is a beloved fast food icon, known for its juicy patty, fresh veggies, and flavorful sauces, all sandwiched between soft buns. It's a meal that never goes out of style and satisfies cravings like no other."
+      "para": "The burger is a beloved fast food icon, known for its juicy patty, fresh veggies, and flavorful sauces, all sandwiched between soft buns. It&apos;s a meal that never goes out of style and satisfies cravings like no other."
     },
     "sub": {
       "heading": "A Perfect Meal in Every Bite",
@@ -2289,7 +2289,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     "description": {
       "heading": "Why Burgers Are a Global Favorite",
       "para": [
-        "Endless Customization: From beef to chicken and veggie patties, there's a burger for everyone.",
+        "Endless Customization: From beef to chicken and veggie patties, there&apos;s a burger for everyone.",
         "Convenient and Portable: Perfect for on-the-go meals or casual dining.",
         "Deliciously Balanced: A harmony of textures and flavors in every bite."
       ]
@@ -2338,7 +2338,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
       "para": "Broast is a popular fast food item, combining the crispy texture of fried chicken with juicy, flavorful meat inside. Perfect for family meals or casual gatherings, broast is loved for its crunch and taste."
     },
     "sub": {
-      "heading": "A Crispy Treat You Can't Resist",
+      "heading": "A Crispy Treat You Can&apos;t Resist",
       "para": "Broast is fried to golden perfection, delivering a satisfying crunch that pairs perfectly with its juicy interior."
     },
     "description": {
