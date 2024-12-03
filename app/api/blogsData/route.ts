@@ -295,7 +295,7 @@ const blogs: BlogDataProps[] = [
     ],
     conclusion: {
       heading: "Anda Paratha - A Delicious Meal for Any Time of Day",
-      para: "Anda Paratha is a fulfilling and flavorsome dish that combines the goodness of eggs and paratha. Whether you enjoy it for breakfast, lunch, or dinner, it's a meal that satisfies both your hunger and your taste buds. Try this easy recipe and indulge in a comforting, flavorful treat!",
+      para: "Anda Paratha is a fulfilling and flavorsome dish that combines the goodness of eggs and paratha. Whether you enjoy it for breakfast, lunch, or dinner, it&apos;s a meal that satisfies both your hunger and your taste buds. Try this easy recipe and indulge in a comforting, flavorful treat!",
     },
   },
 
@@ -307,7 +307,7 @@ const blogs: BlogDataProps[] = [
     "date": "October 26, 2024",
     "main": {
       "heading": "Halwa Puri - A Traditional Breakfast Delight",
-      "para": "Halwa Puri is a beloved and traditional breakfast option in South Asia. This comforting meal consists of soft, fluffy puris paired with a sweet, aromatic halwa made from semolina. The crispy puris combined with the rich, spiced halwa create a perfect harmony of flavors, making it a go-to dish for families and gatherings. Whether it's a festive morning or a regular weekend treat, Halwa Puri never fails to impress."
+      "para": "Halwa Puri is a beloved and traditional breakfast option in South Asia. This comforting meal consists of soft, fluffy puris paired with a sweet, aromatic halwa made from semolina. The crispy puris combined with the rich, spiced halwa create a perfect harmony of flavors, making it a go-to dish for families and gatherings. Whether it&apos;s a festive morning or a regular weekend treat, Halwa Puri never fails to impress."
     },
     "sub": {
       "heading": "Start Your Day with a Taste of Tradition",
@@ -316,7 +316,7 @@ const blogs: BlogDataProps[] = [
     "description": {
       "heading": "Why Halwa Puri is Special",
       "para": [
-        "Sweet and Savory: The halwa's sweetness contrasts beautifully with the crispy puris, making every bite a perfect balance of flavors.",
+        "Sweet and Savory: The halwa&apos;s sweetness contrasts beautifully with the crispy puris, making every bite a perfect balance of flavors.",
         "Traditional Comfort: This dish has been passed down through generations and remains a favorite for many on special occasions.",
         "Energy-Boosting: The combination of semolina in the halwa and the deep-fried puris provides a burst of energy to kickstart your day.",
         "Quick to Prepare: Despite its rich flavors, Halwa Puri is quick and easy to make, making it perfect for a weekend breakfast or a family gathering."
@@ -459,73 +459,73 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
 
   {
     id: 7,
-    category: 'Lunch',
+    category: &apos;Lunch&apos;,
     image: "/images/aluGobhi.jpg",
-    title: 'Aloo Gobhi - A Comforting Classic',
-    date: 'November 26, 2024',
+    title: &apos;Aloo Gobhi - A Comforting Classic&apos;,
+    date: &apos;November 26, 2024&apos;,
     main: {
-      heading: 'Aloo Gobhi - A Timeless Vegetarian Delight',
-      para: 'Aloo Gobhi, the beloved combination of potatoes (aloo) and cauliflower (gobhi), is a staple dish in many South Asian homes. Known for its simple yet delicious flavors, this dry curry is a versatile option that pairs perfectly with roti, naan, or rice. Aloo Gobhi is a dish that celebrates the beauty of fresh vegetables, enhanced with aromatic spices.',
+      heading: &apos;Aloo Gobhi - A Timeless Vegetarian Delight&apos;,
+      para: &apos;Aloo Gobhi, the beloved combination of potatoes (aloo) and cauliflower (gobhi), is a staple dish in many South Asian homes. Known for its simple yet delicious flavors, this dry curry is a versatile option that pairs perfectly with roti, naan, or rice. Aloo Gobhi is a dish that celebrates the beauty of fresh vegetables, enhanced with aromatic spices.&apos;,
     },
     sub: {
-      heading: 'A Dish That Never Fails to Impress',
-      para: 'Easy to prepare, hearty, and full of nutrients, Aloo Gobhi is the ultimate comfort food that pleases the palate and nourishes the body.',
+      heading: &apos;A Dish That Never Fails to Impress&apos;,
+      para: &apos;Easy to prepare, hearty, and full of nutrients, Aloo Gobhi is the ultimate comfort food that pleases the palate and nourishes the body.&apos;,
     },
     description: {
-      heading: 'What Makes Aloo Gobhi Special?',
+      heading: &apos;What Makes Aloo Gobhi Special?&apos;,
       para: [
-        'A Wholesome Combination: Cauliflower is rich in fiber and vitamins, while potatoes provide the perfect complement with their earthy flavor and texture.',
-        'Aromatic Spices: The subtle blend of cumin, turmeric, and coriander makes this dish a flavorful delight.',
-        'Quick and Easy: Aloo Gobhi is a straightforward recipe that fits well into a busy schedule without compromising on taste.',
-        'Perfect for All Occasions: From family dinners to festive meals, Aloo Gobhi is always a crowd-pleaser.',
+        &apos;A Wholesome Combination: Cauliflower is rich in fiber and vitamins, while potatoes provide the perfect complement with their earthy flavor and texture.&apos;,
+        &apos;Aromatic Spices: The subtle blend of cumin, turmeric, and coriander makes this dish a flavorful delight.&apos;,
+        &apos;Quick and Easy: Aloo Gobhi is a straightforward recipe that fits well into a busy schedule without compromising on taste.&apos;,
+        &apos;Perfect for All Occasions: From family dinners to festive meals, Aloo Gobhi is always a crowd-pleaser.&apos;,
       ],
     },
     ingredients: [
-      'For the Dish:',
-      'Potatoes (aloo): 3 medium (peeled and diced)',
-      'Cauliflower (gobhi): 1 medium (cut into florets)',
-      'Onion: 1 medium (finely chopped)',
-      'Tomatoes: 2 medium (chopped)',
-      'Green chilies: 2-3 (sliced)',
-      'Garlic cloves: 3-4 (minced)',
-      'Cooking oil: 4 tablespoons',
-      'Cumin seeds: 1 teaspoon',
-      'Turmeric powder: ½ teaspoon',
-      'Red chili powder: 1 teaspoon',
-      'Coriander powder: 1 tablespoon',
-      'Garam masala powder: ½ teaspoon',
-      'Salt: to taste',
-      'Fresh coriander leaves: for garnish',
+      &apos;For the Dish:&apos;,
+      &apos;Potatoes (aloo): 3 medium (peeled and diced)&apos;,
+      &apos;Cauliflower (gobhi): 1 medium (cut into florets)&apos;,
+      &apos;Onion: 1 medium (finely chopped)&apos;,
+      &apos;Tomatoes: 2 medium (chopped)&apos;,
+      &apos;Green chilies: 2-3 (sliced)&apos;,
+      &apos;Garlic cloves: 3-4 (minced)&apos;,
+      &apos;Cooking oil: 4 tablespoons&apos;,
+      &apos;Cumin seeds: 1 teaspoon&apos;,
+      &apos;Turmeric powder: ½ teaspoon&apos;,
+      &apos;Red chili powder: 1 teaspoon&apos;,
+      &apos;Coriander powder: 1 tablespoon&apos;,
+      &apos;Garam masala powder: ½ teaspoon&apos;,
+      &apos;Salt: to taste&apos;,
+      &apos;Fresh coriander leaves: for garnish&apos;,
     ],
     cookingProcess: [
       {
-        heading: 'Prepare the Vegetables',
-        para: 'Peel and dice the potatoes into small cubes. Cut the cauliflower into bite-sized florets and wash thoroughly.',
+        heading: &apos;Prepare the Vegetables&apos;,
+        para: &apos;Peel and dice the potatoes into small cubes. Cut the cauliflower into bite-sized florets and wash thoroughly.&apos;,
       },
       {
-        heading: 'Sauté the Aromatics',
-        para:'Heat oil in a large pan or wok. Add cumin seeds and let them sizzle. Add chopped onions and garlic, and sauté until golden and fragrant.',
+        heading: &apos;Sauté the Aromatics&apos;,
+        para:&apos;Heat oil in a large pan or wok. Add cumin seeds and let them sizzle. Add chopped onions and garlic, and sauté until golden and fragrant.&apos;,
       },
       {
-        heading: 'Cook the Potatoes and Cauliflower',
-        para: 'Add the diced potatoes to the pan and cook for 5-6 minutes, stirring occasionally. Add the cauliflower florets, turmeric, red chili powder, coriander powder, and salt. Mix well to coat the vegetables in spices.',
+        heading: &apos;Cook the Potatoes and Cauliflower&apos;,
+        para: &apos;Add the diced potatoes to the pan and cook for 5-6 minutes, stirring occasionally. Add the cauliflower florets, turmeric, red chili powder, coriander powder, and salt. Mix well to coat the vegetables in spices.&apos;,
       },
       {
-        heading: 'Simmer with Tomatoes',
-        para: 'Add the chopped tomatoes and green chilies. Cover and cook on low heat for 10-12 minutes, stirring occasionally, until the vegetables are tender.',
+        heading: &apos;Simmer with Tomatoes&apos;,
+        para: &apos;Add the chopped tomatoes and green chilies. Cover and cook on low heat for 10-12 minutes, stirring occasionally, until the vegetables are tender.&apos;,
       },
       {
-        heading: 'Finish with Garam Masala',
-        para: 'Sprinkle garam masala over the cooked vegetables and mix well. Let it simmer for another 2-3 minutes.',
+        heading: &apos;Finish with Garam Masala&apos;,
+        para: &apos;Sprinkle garam masala over the cooked vegetables and mix well. Let it simmer for another 2-3 minutes.&apos;,
       },
       {
-        heading: 'Garnish and Serve',
-        para: 'Garnish with fresh coriander leaves. Serve hot with roti, paratha, or steamed rice.',
+        heading: &apos;Garnish and Serve&apos;,
+        para: &apos;Garnish with fresh coriander leaves. Serve hot with roti, paratha, or steamed rice.&apos;,
       },
     ],
     conclusion: {
-      heading: 'Aloo Gobhi - Simple Yet Flavorful',
-      para: 'Aloo Gobhi is a timeless dish that proves the best meals are often the simplest. With its earthy vegetables and aromatic spices, it&apos;s a perfect example of how traditional recipes turn basic ingredients into something extraordinary. Make this comforting dish a part of your weekly menu, and enjoy its delightful flavors with your loved ones!',
+      heading: &apos;Aloo Gobhi - Simple Yet Flavorful&apos;,
+      para: &apos;Aloo Gobhi is a timeless dish that proves the best meals are often the simplest. With its earthy vegetables and aromatic spices, it&apos;s a perfect example of how traditional recipes turn basic ingredients into something extraordinary. Make this comforting dish a part of your weekly menu, and enjoy its delightful flavors with your loved ones!&apos;,
     },
   }, 
 
@@ -989,7 +989,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     date: `November 17, 2024`,
     main: {
       heading: `Dum Qeema - The Perfect Blend of Flavor and Aroma`,
-      para: `Dum Qeema is a beloved South Asian delicacy, known for its rich flavors and tender minced meat. Cooked over low heat ('dum'), this dish is infused with aromatic spices, making it a favorite for lunch or dinner. Whether served with naan, paratha, or rice, Dum Qeema never fails to tantalize the taste buds.`,
+      para: `Dum Qeema is a beloved South Asian delicacy, known for its rich flavors and tender minced meat. Cooked over low heat (&apos;dum&apos;), this dish is infused with aromatic spices, making it a favorite for lunch or dinner. Whether served with naan, paratha, or rice, Dum Qeema never fails to tantalize the taste buds.`,
     },
     sub: {
       heading: `The Essence of Dum Cooking`,
@@ -998,7 +998,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
     description: {
       heading: `The Legacy of Dum Qeema`,
       para: [
-        `A Dish Rooted in Tradition Dum Qeema is inspired by the traditional 'dum pukht' style of cooking, where food is cooked on low heat to enhance its flavors.`,
+        `A Dish Rooted in Tradition Dum Qeema is inspired by the traditional &apos;dum pukht&apos; style of cooking, where food is cooked on low heat to enhance its flavors.`,
         `An All-Season Favorite Its warm and hearty flavors make it perfect for every season, whether served as a comforting winter meal or a festive summer delight.`,
         `A Crowd Pleaser Easy to prepare and packed with flavor, Dum Qeema is a go-to dish for family gatherings and special occasions.`,
         `Versatile Pairing Enjoy Dum Qeema with naan, paratha, or even as a stuffing for sandwiches and rolls.`,
@@ -1174,19 +1174,19 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     "date": "November 26, 2024",
     "main": {
       "heading": "Club Sandwich - A Perfect Snack for Any Time",
-      "para": "The Club Sandwich is a timeless snack loved by many for its delicious layers of bread, crispy bacon, fresh vegetables, and tender chicken or turkey. Often served with crispy fries, this snack is both satisfying and filling. Whether it's for a quick lunch, a picnic, or a snack during your day, the Club Sandwich never disappoints."
+      "para": "The Club Sandwich is a timeless snack loved by many for its delicious layers of bread, crispy bacon, fresh vegetables, and tender chicken or turkey. Often served with crispy fries, this snack is both satisfying and filling. Whether it&apos;s for a quick lunch, a picnic, or a snack during your day, the Club Sandwich never disappoints."
     },
     "sub": {
       "heading": "Quick and Easy, Yet Delicious",
-      "para": "The Club Sandwich is not only quick to prepare but also offers endless variations. Whether you prefer it with chicken, turkey, or even vegetarian options, it's a versatile and customizable snack that suits all tastes."
+      "para": "The Club Sandwich is not only quick to prepare but also offers endless variations. Whether you prefer it with chicken, turkey, or even vegetarian options, it&apos;s a versatile and customizable snack that suits all tastes."
     },
     "description": {
       "heading": "Why the Club Sandwich is a Favorite",
       "para": [
-        "Layered Goodness: The Club Sandwich's multiple layers of bread, meats, veggies, and sauces offer a variety of textures and flavors in each bite.",
+        "Layered Goodness: The Club Sandwich&apos;s multiple layers of bread, meats, veggies, and sauces offer a variety of textures and flavors in each bite.",
         "Filling and Satisfying: With its hearty ingredients, this sandwich is a perfect snack or light meal that keeps you full.",
         "Customizable: You can easily modify the filling to suit your taste, whether you like extra cheese, more veggies, or a different protein.",
-        "Perfect for Any Occasion: Whether you're at home, in a cafe, or packing lunch for a picnic, the Club Sandwich is an ideal choice."
+        "Perfect for Any Occasion: Whether you&apos;re at home, in a cafe, or packing lunch for a picnic, the Club Sandwich is an ideal choice."
       ]
     },
     "ingredients": [
@@ -1222,7 +1222,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     ],
     "conclusion": {
       "heading": "The Club Sandwich - A Snack You Can&apos;t Resist",
-      "para": "The Club Sandwich is a snack that's loved by many for its delicious layers and variety of flavors. It's easy to prepare, customizable, and perfect for any occasion. Whether you're craving a light snack or a satisfying meal, the Club Sandwich is sure to hit the spot. Try this recipe today for a satisfying and tasty treat!"
+      "para": "The Club Sandwich is a snack that&apos;s loved by many for its delicious layers and variety of flavors. It&apos;s easy to prepare, customizable, and perfect for any occasion. Whether you&apos;re craving a light snack or a satisfying meal, the Club Sandwich is sure to hit the spot. Try this recipe today for a satisfying and tasty treat!"
     }
   },
   {
@@ -1281,7 +1281,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
       },
       {
         "heading": "4. Prepare the Samosa Wrappers",
-        "para": "If you're using ready-made samosa sheets, cut them into halves to form triangles. If you're using homemade dough, roll it out into small circles, then cut them into halves."
+        "para": "If you&apos;re using ready-made samosa sheets, cut them into halves to form triangles. If you&apos;re using homemade dough, roll it out into small circles, then cut them into halves."
       },
       {
         "heading": "5. Fill and Shape the Samosas",
@@ -1308,7 +1308,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
       "para": "Cheese Sticks are a delicious snack that combines the crunch of a golden, crispy exterior with the gooey, melty cheese filling inside. Perfect as a quick snack, appetizer, or party treat, these cheese sticks are sure to please anyone who loves cheesy, savory snacks. With minimal ingredients and quick preparation, cheese sticks are a go-to comfort food."
     },
     "sub": {
-      "heading": "A Cheesy Snack You Can't Resist",
+      "heading": "A Cheesy Snack You Can&apos;t Resist",
       "para": "The crispy outer layer of these cheese sticks contrasts beautifully with the smooth, melty cheese inside. Whether you dip them in marinara sauce or enjoy them on their own, cheese sticks are a simple yet irresistible snack."
     },
     "description": {
@@ -1342,7 +1342,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
       },
       {
         "heading": "3. Freeze the Cheese Sticks",
-        "para": "Once the cheese sticks are breaded, place them on a tray and freeze them for at least 30 minutes to ensure the cheese doesn't melt too quickly while frying."
+        "para": "Once the cheese sticks are breaded, place them on a tray and freeze them for at least 30 minutes to ensure the cheese doesn&apos;t melt too quickly while frying."
       },
       {
         "heading": "4. Fry the Cheese Sticks",
@@ -1355,7 +1355,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     ],
     "conclusion": {
       "heading": "Cheese Sticks - The Perfect Snack for Cheese Lovers",
-      "para": "Cheese Sticks are an irresistible snack that will satisfy any cheese lover's cravings. With their crunchy exterior and melty cheese inside, they make a perfect treat for parties, family gatherings, or as a simple snack. Serve them with marinara sauce or any dip of your choice for the ultimate cheesy experience!"
+      "para": "Cheese Sticks are an irresistible snack that will satisfy any cheese lover&apos;s cravings. With their crunchy exterior and melty cheese inside, they make a perfect treat for parties, family gatherings, or as a simple snack. Serve them with marinara sauce or any dip of your choice for the ultimate cheesy experience!"
     }
   },
   {
@@ -1433,7 +1433,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     },
     "sub": {
       "heading": "A Comforting Snack with a Delicious Twist",
-      "para": "Momos are the perfect combination of a delicate, soft dumpling shell and a filling that's packed with flavor. Whether filled with spicy vegetables or savory meat, these dumplings are a delightful treat that can be enjoyed any time of day."
+      "para": "Momos are the perfect combination of a delicate, soft dumpling shell and a filling that&apos;s packed with flavor. Whether filled with spicy vegetables or savory meat, these dumplings are a delightful treat that can be enjoyed any time of day."
     },
     "description": {
       "heading": "What Makes Momos Special?",
@@ -1941,7 +1941,7 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
     },
     "sub": {
       "heading": "A Dessert Fit for Royalty",
-      "para": "Shahi Tukray, which translates to 'Royal Pieces,' is a dish that symbolizes luxury. Its creamy base and crispy texture offer a delightful contrast, making it a favorite at weddings and festive dinners."
+      "para": "Shahi Tukray, which translates to &apos;Royal Pieces,&apos; is a dish that symbolizes luxury. Its creamy base and crispy texture offer a delightful contrast, making it a favorite at weddings and festive dinners."
     },
     "description": {
       "heading": "What Makes Shahi Tukray Unique?",
