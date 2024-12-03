@@ -2390,12 +2390,5 @@ For roasting: Place the marinated chicken in the oven and roast for 45-60 minute
 ];
 
 export async function GET() {
-  try {
     return NextResponse.json(blogs, { status: 200 });
-  } catch (error) {
-    return NextResponse.json(
-      { error: `Failed to fetch blogs data` },
-      { status: 500 }
-    );
-  }
 }
