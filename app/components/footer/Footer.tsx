@@ -4,10 +4,10 @@ import { FaLinkedin, FaInstagram, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-orange-300 shadow-lg text-black py-8">
-      <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
+    <footer className="bg-red-200 shadow-lg text-black py-8">
+      <div className=" px-8 grid grid-cols-1 md:grid-cols-3 md:gap-8 gap-12 ">
         {/* Navigation Links */}
-        <div>
+        <div className="text-center">
           <h2 className="text-lg font-bold text-black mb-4">Navigation</h2>
           <ul className="space-y-2">
             <li>
@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
 
         {/* Useful Links */}
-        <div>
+        <div className="text-center">
           <h2 className="text-lg font-bold text-black mb-4">Useful Links</h2>
           <ul className="space-y-2">
             <li>
@@ -85,14 +85,14 @@ const Footer = () => {
         </div>
 
         {/* Social Media Links */}
-        <div>
+        <div className="text-center">
           <h2 className="text-lg font-bold text-black mb-4">Follow Us</h2>
           <p className="text-gray-900 mb-4">
             Connect with us on social media for the latest updates and recipes!
           </p>
-          <div className="flex space-x-4">
+          <div className="flex space-x-4 justify-center">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/areeba-zafar-973917303/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlUNLSWBlTimkXDqOhl2BRw%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-orange-950 transition duration-300 text-2xl"
@@ -100,7 +100,7 @@ const Footer = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://instagram.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-orange-950  transition duration-300 text-2xl"
@@ -108,7 +108,7 @@ const Footer = () => {
               <FaInstagram />
             </a>
             <a
-              href="mailto:example@tastytreasure.com"
+              href="mailto:areebazafar715@gmail.com"
               className="hover:text-orange-950  transition duration-300 text-2xl"
             >
               <FaEnvelope />
