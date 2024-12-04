@@ -597,7 +597,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
   {
     id: 9,
     category: "Lunch",
-    image: "/images/haleem.jpg",
+    image: "/images/Haleem.jpg",
     title: "Haleem - A Rich and Hearty Delight",
     date: "November 12, 2024",
     main: {
@@ -1070,7 +1070,7 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
   {
     id: 15,
     category: `Dinner`,
-    image: "/images/chargha.jpg",
+    image: "/images/Chargha.jpg",
     title: `Chicken Chargha - A Deliciously Spicy Delight`,
     date: `October 7, 2024`,
     main: {
