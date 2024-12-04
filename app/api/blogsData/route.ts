@@ -229,9 +229,9 @@ const blogs: BlogDataProps[] = [
   {
     id: 4,
     category: "Breakfast",
-    image: "/images/andaparatha.jpg",
+    image: "/images/andaParatha.jpg",
     title: "Anda Paratha - A Hearty and Delicious Breakfast",
-    date: "November 26, 2024",
+    date: "November 23, 2024",
     main: {
       heading: "Anda Paratha - The Ultimate Comfort Food for Breakfast",
       para: "Anda Paratha is a popular and hearty breakfast option in South Asian cuisine. This satisfying dish combines the crispy, flaky paratha with a rich, flavorful egg filling. The perfect balance of spices and textures makes it a favorite among all age groups. Whether served as a quick meal in the morning or a late-night snack, Anda Paratha always delivers a comforting and fulfilling experience.",
@@ -302,7 +302,7 @@ const blogs: BlogDataProps[] = [
   {
     "id": 5,
     "category": "Breakfast",
-    "image": "/images/halwapuri.jpg",
+    "image": "/images/halwaPuri.jpg",
     "title": "Halwa Puri - A Traditional Breakfast Delight",
     "date": "October 26, 2024",
     "main": {
