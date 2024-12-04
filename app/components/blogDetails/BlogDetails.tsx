@@ -28,10 +28,6 @@ const BlogDetails = () => {
     fetchBlogDetails();
   }, [blogId]);
 
-  const handleStringReplacement = (str: string) => {
-    return str.replace(/&apos;/g, "'");
-  };  
-
   // Comments State
   const [comments, setComments] = useState<Comment[]>([
     { id: 1, text: "This Is Such A Great Recipe!", likes: 0 },
@@ -72,10 +68,10 @@ const BlogDetails = () => {
         <div className="mt-4 list-none">
           <div className="flex md:flex-row flex-col justify-around items-center">
             <div className="md:w-[50%]">
-              <h2 className="px-2 text-sm">Blog Title: {handleStringReplacement(details.title)}</h2>
+              <h2 className="px-2 text-sm">Blog Title: {details.title}</h2>
               <p className="px-2 mt-2 text-sm">Date: {details.date}</p>
-              <h1 className="mt-6 p-2 font-bold text-2xl sm:text-4xl">{handleStringReplacement(details.main.heading)}</h1>
-              <p className="mt-4 p-2 sm:text-lg ">{handleStringReplacement(details.main.para)}</p>
+              <h1 className="mt-6 p-2 font-bold text-2xl sm:text-4xl">{details.main.heading}</h1>
+              <p className="mt-4 p-2 sm:text-lg ">{details.main.para}</p>
             </div>
             <div className="md:w-[50%] border-y-2 border-red-950 rounded-lg flex justify-center">
               <Image
@@ -87,13 +83,13 @@ const BlogDetails = () => {
               />
             </div>
           </div>
-          <h2 className="text-xl sm:ext-3xl p-4 text-red-950 font-bold">{handleStringReplacement(details.sub.heading)}</h2>
-          <p className="p-2 sm:text-lg">{handleStringReplacement(details.sub.para)}</p>
-          <p className="mt-2 p-2 text-lg sm:text-2xl font-semibold">{handleStringReplacement(details.description.heading)}</p>
+          <h2 className="text-xl sm:ext-3xl p-4 text-red-950 font-bold">{details.sub.heading}</h2>
+          <p className="p-2 sm:text-lg">{details.sub.para}</p>
+          <p className="mt-2 p-2 text-lg sm:text-2xl font-semibold">{details.description.heading}</p>
           <ol className="list-decimal p-4 ">
             {details.description.para.map((point, index) => (
               <li key={index} className="p-2 sm:px-4 sm:text-lg border-l-2 border-red-700">
-                {handleStringReplacement(point)}
+                {point}
               </li>
             ))}
           </ol>
@@ -104,7 +100,7 @@ const BlogDetails = () => {
             <ul className="list-disc px-8">
               {details.ingredients.map((point, index) => (
                 <li key={index} className="p-2 sm:px-4 sm:text-lg ">
-                {handleStringReplacement(point)}
+                {point}
                 </li>
               ))}
             </ul>
@@ -114,9 +110,9 @@ const BlogDetails = () => {
             <ol className="list-decimal sm:px-4">
               {details.cookingProcess.map((point, index) => (
                 <div key={index}>
-                  <li className="sm:p-2 sm:px-4 text-sm sm:text-lg "> {handleStringReplacement(point.heading)}</li>
+                  <li className="sm:p-2 sm:px-4 text-sm sm:text-lg "> {point.heading}</li>
                   <ul className="p-2 list-disc">
-                    <li className="p-2 text-sm sm:text-lg"> {handleStringReplacement(point.para)}</li>
+                    <li className="p-2 text-sm sm:text-lg"> {point.para}</li>
                   </ul>
                 </div>
               ))}
