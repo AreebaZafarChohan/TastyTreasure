@@ -126,7 +126,7 @@ const BlogDetails = () => {
           <p className="mt-2 sm:text-lg px-4">{details.conclusion.para}</p>
           <p className="m-4 p-2">Thanks for reading.....</p>
           <p className="mt-12 text-center sm:text-2xl ">◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇</p>
-          <button className="m-12 p-1 sm:p-2 leading-5 px-8 rounded shadow-md bg-transparent shadow-red-950 border-2 border-red-900 sm:text-lg hover:bg-red-900 hover:text-white">
+          <button className="m-12 p-2 leading-5 px-8 rounded shadow-md bg-transparent shadow-red-950 border-2 border-red-900 sm:text-lg hover:bg-red-900 hover:text-white">
             <Link href="/blogs">Back</Link>
           </button>
         </div>
