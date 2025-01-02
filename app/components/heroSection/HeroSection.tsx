@@ -2,9 +2,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import { FaHeart } from "react-icons/fa";
-import { getData } from "../categoryData/Category";
 import { useEffect, useState } from "react";
 import { BlogDataProps } from "@/types/componentTypes";
+import { client } from "@/sanity/lib/client";
+import { urlFor } from "@/sanity/lib/image";
 
 const HeroSection = () => {
   const [blogData, setBlogData] = useState<BlogDataProps[]>([]);
@@ -12,8 +13,15 @@ const HeroSection = () => {
 
   useEffect(() => {
     const fetchBlogData = async () => {
-      const blogs = await getData();
-      setBlogData(blogs);
+      try {
+              const blogs = await client.fetch(
+                `*[_type == "blogs"]{id,title,image,"category":category->category,date, main_paragraph{
+                heading}}`
+              );
+              setBlogData(blogs);
+            } catch (error) {
+              console.error("Error fetching blogs:", error);
+            }
     };
 
     fetchBlogData();
@@ -50,16 +58,12 @@ const HeroSection = () => {
             .map((post) => (
               <div key={post.id} className="border p-4 rounded shadow-lg">
                 <div className="">
-                  <Image
-                    src={post.image}
-                    alt={post.title}
-                    height={200}
-                    width={200}
-                    className="w-full sm:h-96 object-cover mb-2 rounded"
-                  />
+                 <Image src={urlFor(post.image).url()} alt={post.title} width={200} height={400} 
+                                 className="w-full sm:h-96 object-cover mb-2 rounded"
+                               />
                 </div>
                 <h2 className="text-center text-black font-[500]">Title: {post.title}</h2>
-                <h2 className="text-center font-semibold text-lg">{post.main.heading}</h2>
+                <h2 className="text-center font-semibold text-lg">{post.main_paragraph.heading}</h2>
                 <p className="text-red-500 text-center">{post.date}</p>
                 <div className="flex justify-between flex-row gap-0 mt-8">
                   <button onClick={() => likeHandler(post.id)}>

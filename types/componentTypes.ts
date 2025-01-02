@@ -5,7 +5,27 @@ export type LiProps = {
 
 type BlogDataHeadingAndPara = {
     heading: string;
-    para: string;
+    paragraph: string;
+}
+
+type SubBlogData = {
+  sub_heading: string;
+  sub_paragraph: string;
+}
+
+type Description = {
+  desc_heading: string;
+  desc_paragraph: string[];
+};
+
+type CookingProcess = {
+  cooking_process_heading: string;
+  cooking_process_paragraph: string;
+}
+
+type Conclusion = {
+  conclusion_heading: string;
+  conclusion_paragraph: string;
 }
 
 export type BlogDataProps = {
@@ -14,15 +34,12 @@ export type BlogDataProps = {
   image: string;
   title: string;
   date: string;
-  main: BlogDataHeadingAndPara;
-  sub: BlogDataHeadingAndPara;
-  description: {
-    heading: string;
-    para: string[];
-  };
+  main_paragraph: BlogDataHeadingAndPara;
+  sub_sec_paragraph: SubBlogData;
+  description: Description;
   ingredients: string[];
-  cookingProcess: BlogDataHeadingAndPara[];
-  conclusion: BlogDataHeadingAndPara;
+  cooking_process: CookingProcess[];
+  conclusion: Conclusion;
 };
 
 export interface Comment {

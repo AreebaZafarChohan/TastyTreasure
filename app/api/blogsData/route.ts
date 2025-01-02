@@ -1,7 +1,6 @@
-import { BlogDataProps } from "@/types/componentTypes";
 import { NextResponse } from "next/server";
 
-const blogs: BlogDataProps[] = [
+const blogs = [
   // breakfast
 
   {
@@ -688,8 +687,8 @@ Pair it with pickles, papad, or a fresh salad for a complete meal.
       para: [
         "Rich in Protein: The combination of ground meat and potatoes makes this dish a great source of protein and essential nutrients.",
         "Quick and Easy: It's a simple recipe that doesn't require much time, making it an ideal choice for busy days.",
-        "Full of Flavor: The spices bring out an incredible depth of flavor, while the potatoes absorb the savory meat juices, making each bite satisfying.",
-        "Perfect for Any Meal: Aloo Keema can be served as a lunch, dinner, or even as a filling snack with paratha or naan."
+        "",
+        "Perfect for Any Meal: Aloo Keema can be served as a lunch, dinner, or even as a filling snack with parFull of Flavor: The spices bring out an incredible depth of flavor, while the potatoes absorb the savory meat juices, making each bite satisfying.atha or naan."
       ]
     },
     ingredients: [
