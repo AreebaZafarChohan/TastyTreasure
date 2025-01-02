@@ -152,7 +152,7 @@ const BlogDetails = () => {
             <ol className="list-decimal sm:px-4">
               {details.cooking_process.map((point, index) => (
                 <div key={index}>
-                  <li className="sm:p-2 sm:px-4 text-sm sm:text-lg ">
+                  <li className="sm:p-2 sm:px-4 text-lg sm:text-xl font-[600] ">
                     {" "}
                     {point.cooking_process_heading}
                   </li>
