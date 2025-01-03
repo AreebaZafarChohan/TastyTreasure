@@ -42,7 +42,7 @@ const blogs = [
     "cookingProcess": [
       {
         "heading": "1. Prepare the Ingredients",
-        "para": "Start by toasting the bread slices until golden and crisp. Cook the chicken breast or use leftover grilled chicken, and fry the bacon until crispy. Prepare the lettuce, tomato, cucumber, and cheese slices."
+        "para": "Start by toasting the bread slices until golden and crisp. Cook the chicken breast or use leftover grilled chicken. Prepare the lettuce, tomato, cucumber, and cheese slices."
       },
       {
         "heading": "2. Layer the Sandwich",
@@ -50,7 +50,7 @@ const blogs = [
       },
       {
         "heading": "3. Add More Layers",
-        "para": "On the second slice of bread, layer the crispy bacon, cucumber slices, and another piece of lettuce. Then add the final slice of bread on top."
+        "para": "On the second slice of bread, layer again grill chicken, cucumber slices, and another piece of lettuce. Then add the final slice of bread on top."
       },
       {
         "heading": "4. Cut and Serve",
@@ -161,7 +161,7 @@ const blogs = [
       "Mozzarella cheese sticks: 10-12 pieces",
       "All-purpose flour: ½ cup",
       "Eggs: 2 (beaten)",
-      "Bread crumbs: 1 cup (preferably panko)",
+      "Bread crumbs: 1 cup",
       "Salt: to taste",
       "Black pepper: ½ teaspoon",
       "Chili flakes: ½ teaspoon (optional)",
