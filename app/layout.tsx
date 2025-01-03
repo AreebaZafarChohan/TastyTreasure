@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Teasty Treasure",
+  title: "Tasty Treasure",
   description: "Created by Areeba Zafar",
 };
 
